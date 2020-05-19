@@ -1,0 +1,6 @@
+.\mod\vfx\osd\weapon\gun_plasmagatlin.osd
+.\mod\vfx\osd\weapon\gun_torpedolauncher.osd
+.\mod\vfx\osd\weapon\gun_torpedolauncher.osd
+.\mod\vfx\osd\weapon\gun_torpedolauncher.osd
+.\mod\vfx\osd\weapon\gun_torpedolauncher.osd
+.\mod\vfx\osd\weapon\gun_torpedolauncher.osd

@@ -1,0 +1,6 @@
+﻿.\mod\vfx\osd\weapon\tor_bigbang2.osd
+.\mod\vfx\osd\pla\pla_phobocaster.osd
+abspath:D:\Games\Modding\AquaNox tools\Tools and useful tips for modding\Tools\DATA\AN1_AutoModding\tmp\aquanox$~~1,3dir_modsfx
+.\mod\sfx\sample\music\music_ambient.mp3
+D:\Games\Modding\AquaNox tools\Tools and useful tips for modding\Tools\DATA\AN1_AutoModding\tmp\aquanox$~tga\gfx\picture\loading\sp_loading.tga
+.\mod\gfx\picture\loading\sp_loading.tga

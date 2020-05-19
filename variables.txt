@@ -1,0 +1,32 @@
+param_cd=%~1
+
+param_do_copy=0
+param_do_extract=0
+param_do_gather=0
+param_do_decompile=0
+param_do_build=1
+param_do_apply=1
+
+dir_info=info
+dir_tmp=tmp
+dir_mod=mod
+dir_build=build
+dir_aquanoxmodbuild=Aquanox_mod
+dir_aquanoxgatheredfiles=aquanox$
+
+txt_log=log_%DATE%_%TIME%.txt
+
+.end
+
+----------------
+To declare variables write variablename=<value>
+Do not put space to dir_ variables (may cause disfunctionning)
+
+param_ are binary
+dir_ are strings
+
+----------------
+Pay attention to the fact cdes.exe is kind laggy, it may crash and not all of the extracted files would work for the game.
+Normally, all the .des works, not all the .osd, and I haven't tried the .sam (kind useless)
+
+This tool requires at least 5Go in an full authorized folder.
